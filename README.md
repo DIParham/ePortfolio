@@ -23,7 +23,7 @@ I had conducted a lot of research for this artifact. I began with revisiting bin
  Aside from the research conducted on the data structure, I also researched and reviewed information regarding memory allocation and deallocation. This was a topic briefly discussed in the CS 405: Secure Coding class. I mentioned in the code review that I had suspected  memory leak errors which could hinder the function of the program. In some aspect, this issue was a bit challenging due to unfamiliarity with memory leak errors. Further research demonstrated that memory leak errors commonly occur when memory is allocated, and we forget to deallocate that memory. With that understanding, I was able to identify a couple of areas of which the memory was not deallocated and therefore produced memory leak errors. In my original code, there were instances of node pointers like left and right, that were never deallocated. With the additional binary search tree, more node pointers were allocated memory. The lack of deallocation would create memory issues as the memory usage would be continuously increasing. I was able to resolve this issue by using the delete function: 
  
       if (left) {
-           		 delete left;
+         delete left;
       }
       
 As seen here, the delete function is used to delete the node pointer, left. Quite similarly, this method is used to deallocate the other node pointers. 
