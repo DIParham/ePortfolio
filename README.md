@@ -28,7 +28,7 @@ This determined that if the task.getTaskID was equivalent to the taskID variable
 	if task.getTaskID() == taskID:
 		#Do something
  
-	In doing so, it allowed the Task Service module to pass its unittests. Another issue I encountered were with the unittests themselves. The following code block instructed the program to expect an exception to be thrown:
+In doing so, it allowed the Task Service module to pass its unittests. Another issue I encountered were with the unittests themselves. The following code block instructed the program to expect an exception to be thrown:
  
 	with self.assertRaises(Exception):
 		taskID = None
