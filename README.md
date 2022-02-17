@@ -5,7 +5,7 @@
 # Enhancement One
 Briefly describe the artifact.
 
-For this category of my ePortfolio, I chose to focus on the Task and TaskService projects from the CS 320: Software Testing, Automation, and Quality Assurance course. Created in February of 2021, these projects aimed to provide create, update, and delete functions for a task program. At the same time, this project incorporated JUnit testing to ensure that the Task and TaskService programs functioned as required by project specifications.   
+For the software engineering category of my ePortfolio, I chose to focus on the Task and TaskService projects from the CS 320: Software Testing, Automation, and Quality Assurance course. Created in February of 2021, these projects aimed to provide create, update, and delete functions for a task program. At the same time, this project incorporated JUnit testing to ensure that the Task and TaskService programs functioned as required by project specifications.   
 
 Justify the inclusion of the artifact in your ePortfolio.
 
@@ -13,7 +13,7 @@ This project was selected due to the utilization of white box testing, specifica
 
 Course Objectives.
  
-Reflecting on the code review conducted in Module II, I had stated that with this artifact I aimed to achieve two course objectives: “Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science” and “Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources”. Through this artifact, I believe that I was able to showcase my abilities of meeting these course objectives. Additionally, I also believe that through this artifact I was able to reach another course objective: “Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry specific goals”. In the enhancement process of this artifact, I had to utilize the unittest Python module which is a tool used to conduct white-box testing in software development. This ensures that the software meets expectations and project requirements. Simultaneously, the usage of the unittest module showcased my ability to anticipate potential software design vulnerabilities and flaws. The previous version of this project did not include comments that would encourage or influence collaborative environments. In this enhancement, I remedied this issue by incorporating comments which would promote better understanding of the project and further encourage collaboration. 
+Reflecting on the code review, I had stated that with this artifact I aimed to achieve two course objectives: “Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science” and “Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources”. Through this artifact, I believe that I was able to showcase my abilities of meeting these course objectives. Additionally, I also believe that through this artifact I was able to reach another course objective: “Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry specific goals”. In the enhancement process of this artifact, I had to utilize the unittest Python module which is a tool used to conduct white-box testing in software development. This ensures that the software meets expectations and project requirements. Simultaneously, the usage of the unittest module showcased my ability to anticipate potential software design vulnerabilities and flaws. The previous version of this project did not include comments that would encourage or influence collaborative environments. In this enhancement, I remedied this issue by incorporating comments which would promote better understanding of the project and further encourage collaboration. 
 
 Reflection
 
@@ -67,7 +67,7 @@ As seen here, the delete function is used to delete the node pointer, left. Quit
 # Enhancement Three
 Describe the artifact.
 
-For this section of the ePortfolio, I selected to utilize restaurant data from the DAT 220 Final Project. The final project aimed to demonstrate methods of data mining and how tools, like JMP, can be used to illustrate patterns and outliers. This took place in the August of 2020, during the 20EW6 term. 
+For Databases section of the ePortfolio, I selected to utilize restaurant data from the DAT 220 Final Project. The final project aimed to demonstrate methods of data mining and how tools, like JMP, can be used to illustrate patterns and outliers. This took place in the August of 2020, during the 20EW6 term. 
 
 Justify the inclusion of the artifact. 
 
