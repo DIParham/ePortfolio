@@ -1,6 +1,18 @@
 # CS 499 ePortfolio
 
+# Code Review
+Link: https://www.screencast.com/t/xoiB2GQ8Jtb7
+
+# Artifact Files
+[Software Engineering and Design](https://github.com/DIParham/ePortfolio/tree/master/Software%20Engineering%20Artifact)
+
+[Data Structures and Algorithms](https://github.com/DIParham/ePortfolio/tree/master/Data%20Structures%20Artifact)
+
+[Databases](https://github.com/DIParham/ePortfolio/tree/master/Databases%20Artifact)
+
 # Professional Self Assessment
+
+
 
 # Enhancement One
 Briefly describe the artifact.
@@ -83,14 +95,8 @@ This project gave me the opportunity to research topics that I had only brushed 
 The most challenging portion of the project revolved around linking the drop downs to the graphs and having the graphs change according to the drop down selections. This was tricky. Initially, I thought the problem was with the callbacks. After much research, I was able to conclude that the callbacks were not the issue. Rather, it was the scatter plot’s x and y values. I had set the x and y values as a specific column from the restaurant data. For instance, x was assigned to restaurant and y was assigned to state. From this experience, I learned that if I wanted the graph to alter based on drop down selections that I needed to use the drop down IDs as the x and/or y values. 
 Another issue that I found was adding and saving data to MongoDB from the dashboard. I have been able to add rows to the data table however, it did not except user input. This was a challenge that required me further research and experimentation. Through this process, I had found that the "editable" parameter had not been set. The default value for this parameter is set to "False" which prevents editing within the database. By adjusting the parameter's value to "True", it resolved this issue.   
 
-# Code Review
-Link: https://www.screencast.com/t/xoiB2GQ8Jtb7
 
-# Artifact Files
-[Data Structures](https://github.com/DIParham/ePortfolio/tree/master/Data%20Structures%20Artifact)
 
-[Databases](https://github.com/DIParham/ePortfolio/tree/master/Databases%20Artifact)
 
-[Software Engineering.zip](https://github.com/DIParham/ePortfolio/files/8090093/Software.Engineering.zip)
 
 
