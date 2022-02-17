@@ -80,7 +80,7 @@ Link: https://www.screencast.com/t/xoiB2GQ8Jtb7
 # Artifact Files
 [Software Engineering and Design](https://github.com/DIParham/ePortfolio/tree/master/Software%20Engineering%20Artifact)
 
-[Data Structures and Algorithms](https://github.com/DIParham/ePortfolio/tree/master/Data%20Structures%20Artifact)
+[Data Structures and Algorithms](https://diparham.github.io/Data-Structures-/)
 
 [Databases](https://github.com/DIParham/ePortfolio/tree/master/Databases%20Artifact)
 
