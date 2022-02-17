@@ -93,6 +93,7 @@ def datatable(n_intervals):
             dcc.Dropdown(
                 id='store',
                 options=[
+                    # dropdown options
                     {'label': 'Restaurant', 'value': 'Restaurant'},
                     {'label': 'Webstore', 'value': 'Webstore_Spend'},
                     {'label': 'Third Party', 'value': 'THIRD_SPEND'},
@@ -113,6 +114,7 @@ def datatable(n_intervals):
             dcc.Dropdown(
                 id='customer',
                 options=[
+                    # dropdown options
                     {'label': 'State', 'value': 'state'},
                     {'label': 'Age', 'value': 'Age'},
                 ],
