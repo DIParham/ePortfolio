@@ -31,7 +31,7 @@ struct Bid {
     }
 };
 
-// FIXME (1): Internal structure for tree node
+// FIXME 1: Internal structure for tree node
 struct Node {
 	Bid bid;
 	Node* left;
