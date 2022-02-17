@@ -87,6 +87,8 @@ Another issue that I found was adding and saving data to MongoDB from the dashbo
 Link: https://www.screencast.com/t/xoiB2GQ8Jtb7
 
 # Artifact Files
+[Data Structures](https://github.com/DIParham/ePortfolio/tree/master/Data%20Structures%20Artifact)
+
 [Software Engineering.zip](https://github.com/DIParham/ePortfolio/files/8090093/Software.Engineering.zip)
 
 [Data Structures.zip](https://github.com/DIParham/ePortfolio/files/8090087/Data.Structures.zip)
