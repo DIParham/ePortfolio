@@ -572,7 +572,7 @@ int main(int argc, char* argv[]) {
             break;
         default:
             //prevents invalid input from being used
-            //prevents infinite loop
+            //prevents infinite looping
             if(cin.fail()){
                 cout << "Invalid User Input. Please Select a Valid Option.." << endl;
                 cin.clear();
