@@ -1,14 +1,5 @@
 # CS 499 ePortfolio
 
-# Code Review
-Link: https://www.screencast.com/t/xoiB2GQ8Jtb7
-
-# Artifact Files
-[Software Engineering and Design](https://github.com/DIParham/ePortfolio/tree/master/Software%20Engineering%20Artifact)
-
-[Data Structures and Algorithms](https://github.com/DIParham/ePortfolio/tree/master/Data%20Structures%20Artifact)
-
-[Databases](https://github.com/DIParham/ePortfolio/tree/master/Databases%20Artifact)
 
 # Professional Self Assessment
 
@@ -96,6 +87,15 @@ The most challenging portion of the project revolved around linking the drop dow
 Another issue that I found was adding and saving data to MongoDB from the dashboard. I have been able to add rows to the data table however, it did not except user input. This was a challenge that required me further research and experimentation. Through this process, I had found that the "editable" parameter had not been set. The default value for this parameter is set to "False" which prevents editing within the database. By adjusting the parameter's value to "True", it resolved this issue.   
 
 
+# Code Review
+Link: https://www.screencast.com/t/xoiB2GQ8Jtb7
+
+# Artifact Files
+[Software Engineering and Design](https://github.com/DIParham/ePortfolio/tree/master/Software%20Engineering%20Artifact)
+
+[Data Structures and Algorithms](https://github.com/DIParham/ePortfolio/tree/master/Data%20Structures%20Artifact)
+
+[Databases](https://github.com/DIParham/ePortfolio/tree/master/Databases%20Artifact)
 
 
 
