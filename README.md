@@ -85,3 +85,9 @@ Another issue that I found was adding and saving data to MongoDB from the dashbo
 
 # Code Review
 Link: https://www.screencast.com/t/xoiB2GQ8Jtb7
+
+# Artifact Files
+[CS 499 A1 Final.zip](https://github.com/DIParham/ePortfolio/files/8090062/CS.499.A1.Final.zip)
+[CS 499 A2 Final.zip](https://github.com/DIParham/ePortfolio/files/8090064/CS.499.A2.Final.zip)
+[CS 499 A3 Final.zip](https://github.com/DIParham/ePortfolio/files/8090067/CS.499.A3.Final.zip)
+
