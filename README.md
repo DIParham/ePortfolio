@@ -16,7 +16,7 @@ For my ePortfolio, I wanted to utilize projects that showcase the skills and con
 
 These projects do not correlate with each other, however, they each portray my abilities and understanding of computer science concepts and practices. Through these enhancements, I am able to demonstrate what I have learned from this program. 
 
-#### Enhancement One:
+#### Enhancement One: Software Engineering and Development
 For this reasoning, I based my first enhancement project on the CS 320 Task Service project. In this enhancement, the project is rewritten in another programming language. This demonstrates my ability and knowledge of both Java and Python. I chose to use this project for my ePortfolio because it demonstrates the concepts learned from these classes. It utilizes white-box testing, secure coding, and incorporates software development lifecycle concepts. 
 
 With this project, I employed strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science by maintaining and incorporating well-commented code to enhance understanding and influence improvement. 
@@ -25,14 +25,14 @@ I developed a security mindset that anticipates adversarial exploits in software
 
 I demonstrated the ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals by incorporating the unittest python module to conduct white-box testing. This ensured that the enhanced project functioned as required and expected. 
 
-#### Enhancement Two:
+#### Enhancement Two: Data Structures and Algorithms
 I built the second artifact off of the CS 260 Binary Search Tree project. This project uses a binary search tree data structure to effectively sort, remove, add, and insert data. With this enhancement I demonstrated my understanding of the binary search tree data structure as well as of the C++ programming language. Aside from this, I used the knowledge gained from CS 405: Secure Coding, to recognize, locate, and fix memory deallocation errors that were present in the code. The incorporation of this artifact in my ePortfolio effectively highlights my capabilities with data structures and secure coding.
 
 I designed and evaluated computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices by incorporating a second binary search tree to improve the efficiency of the program. This allowed users to navigate the bids easily and more efficiently. 
 
 I developed a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources by recognizing, locating, and resolving memory leak errors in the code. Through this I was able to properly deallocate the memory and showcase a security mindset capable of anticipating design flaws and potential vulnerabilities in software. 
 
-#### Enhancement Three:
+#### Enhancement Three: Databases
 The third artifact is based off of the data from DAT 220: Fundamentals of Data Mining. With the data from DAT 220 and the knowledge gained from CS 340: Advanced Programming Concepts, I was able to create an interactive dashboard that filtered through restaurant information. I designed this project to enable users to add and save data to MongoDB from the dashboard. I also incorporated an interactive graph that would better illustrate patterns in the data. This showcases my comprehension of MongoDB, Python, SQL, databases, and data mining concepts.  
 
 With this project, I designed, developed, and delivered professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts by incorporating a scatter plot that displayed data patterns. Aside from the CRUD abilities incorporated into the dashboard, I designed a graph that would change according to a dropdown selection. This would effectively communicate to the audience patterns in the data.
